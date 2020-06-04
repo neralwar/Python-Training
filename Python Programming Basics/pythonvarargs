@@ -1,0 +1,4 @@
+def func(*args):
+   for i in args:
+       print(i)
+func(3,2,1,4,7)

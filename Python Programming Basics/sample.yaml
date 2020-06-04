@@ -1,0 +1,24 @@
+# categories.yaml file
+
+hr: 87
+avg: 0.298
+rbi: 149
+
+sports:
+
+  - soccer
+  - football
+  - basketball
+  - cricket
+  - hockey
+  - table tennis
+
+countries:
+
+  - Pakistan
+  - USA
+  - India
+  - China
+  - Germany
+  - France
+  - Spain
