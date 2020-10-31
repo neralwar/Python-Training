@@ -28,7 +28,7 @@ def test_nine():
 
 @pytest.fixture
 def input_value():
-   input = 39
+   input = 30
    return input
 
 def test_divisible_by_3(input_value):
